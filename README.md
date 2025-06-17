@@ -71,6 +71,38 @@ The application uses a well-structured relational database with the following co
 - **Authentication Middleware**: JWT-based security for protected routes
 - **Rate Limiting**: API usage controls and abuse prevention
 
+## 👥 Team Roles and Responsibilities
+
+### **Backend Developer**
+Engineers and stabilizes the product by implementing server-side logic using Django, building RESTful APIs and GraphQL endpoints, integrating with MySQL database, and implementing authentication systems for the booking platform.
+
+### **Frontend Developer**
+Creates the user-facing interface using React.js and Tailwind CSS, implementing property search functionality, booking flows, user authentication, and ensuring responsive design across all devices.
+
+### **Database Administrator**
+Designs and manages the MySQL database schema, creates relationships between users, properties, bookings, and reviews, optimizes database performance, and ensures data integrity and security.
+
+### **Project Manager**
+Makes sure a product or its part is delivered on time and within budget while coordinating team activities, managing project timelines, and facilitating communication between stakeholders.
+
+### **Business Analyst**
+Understands customer's business processes and translates customer business needs into requirements, defining user stories for the booking platform and bridging communication between stakeholders and the technical team.
+
+### **Product Owner**
+Holds responsibility for a product vision and evolution and makes sure the final product meets customer requirements by managing the product backlog and making critical feature decisions.
+
+### **UI/UX Designer**
+Transforms a product vision into user-friendly designs and creates user journeys for the best user experience, designing intuitive interfaces for property listings, search, and booking workflows.
+
+### **Software Architect**
+Designs a high-level software architecture, selects appropriate tools and platforms, and sets up code quality standards for the entire system while ensuring scalability and security.
+
+### **QA Engineer**
+Makes sure an application performs according to requirements and spots functional and non-functional defects by developing test plans, executing manual testing, and verifying booking flows and payment processing.
+
+### **DevOps Engineer**
+Facilitates cooperation between development and operations teams and builds continuous integration and continuous delivery (CI/CD) pipelines using GitHub Actions, Docker, and cloud infrastructure management.
+
 ## 🔐 Security Measures
 
 - **Data Encryption**: HTTPS for data in transit, encrypted storage for sensitive data
